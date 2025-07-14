@@ -1,0 +1,11 @@
+{
+  "username": "ccaadaro",
+  "primaryColor": "#007acc",
+  "secondaryColor": "#ffffff",
+  "showStars": true,
+  "showCommits": true,
+  "showIssues": true,
+  "showPullRequests": true,
+  "showContributions": true,
+  "showTopLanguages": true
+}
